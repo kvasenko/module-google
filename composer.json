@@ -1,5 +1,5 @@
 {
-  "name": "bluzphp/bluz-google-module",
+  "name": "bluzphp/module-google",
   "type": "bluz-module",
   "license": "MIT",
   "description": "bluz google module",
