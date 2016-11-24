@@ -1,11 +1,11 @@
 {
-  "name": "bluzphp/module-google",
+  "name": "bluzphp/module-auth-google",
   "type": "bluz-module",
   "license": "MIT",
   "description": "bluz google module",
   "require": {
     "bluzphp/composer-plugin": "~0.2",
-    "bluzphp/module-auth": "dev-master"
+    "bluzphp/module-auth": "~1.0"
   },
   "extra": {
     "bluz": {
